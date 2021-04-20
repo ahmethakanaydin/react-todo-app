@@ -1,0 +1,9 @@
+.delete-btn{
+    right: 10px;
+    bottom: 5px;
+    position: absolute;
+}
+
+.isDone{
+    text-decoration: line-through;
+}
